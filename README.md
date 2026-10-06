@@ -13,8 +13,8 @@ BeatFighter è un RPG rhythm game in stile cyberpunk. Il giocatore sceglie se gi
 ### Istruzioni
 
 ```bash
-git clone <https://github.com/jacoposcattolini/EsameMDP-126181>
-cd <BeatFighter>
+git clone https://github.com/jacoposcattolini/BeatFighter
+cd BeatFighter
 ```
 
 ### Build del progetto
