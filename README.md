@@ -10,7 +10,8 @@ BeatFighter è un RPG rhythm game in stile cyberpunk. Il giocatore sceglie se gi
 - Java 25 (LTS)
 - Gradle
 
-### Istruzioni
+### Istruzioni da terminale
+Clona il repository ed entra nella cartella del progetto:
 
 ```bash
 git clone https://github.com/jacoposcattolini/BeatFighter
